@@ -9,8 +9,3 @@ This repository contains a Python implementation of the **Technique for Order Pr
 - Calculates ideal and anti-ideal solutions and their respective distances for each alternative.
 - Computes the TOPSIS score and assigns ranks to alternatives.
 - Outputs results including TOPSIS scores and ranks in a CSV file.
-
-## Installation
-Clone the repository and install the required Python libraries:
-```bash
-pip install pandas numpy scipy
